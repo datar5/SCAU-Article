@@ -29,4 +29,13 @@
 ![img.png](image/mangosteen/img.png)
 #### 创建一个新的 Pull Request
 ![img.png](image/mangosteen/new_pr.png)
-#### 
+
+
+![img.png](image/mangosteen/creat_pr.png)
+#### 查看本仓库的PR中是否有你提交的
+![img.png](image/mangosteen/check.png)
+
+在我确定文稿中没有涉政、脏话等其他因素后会将你的文稿合入本仓库。
+然后更新到 [Gitbook](https://github.com/SAYAKA-Konami/SCAU-survival-manual) 上。
+
+Wish you best!
