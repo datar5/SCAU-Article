@@ -12,15 +12,21 @@
 在我看来，如果一个数信的学生不懂得如何使用Github，那么应当是把精力放在了它处。也就不是本手册的受众了。
 ## 如何贡献
 本仓库会分成五个目录，请遵循目录的规范进行贡献。
-- Root  
-    - 考研
-       - 个人目录
-         -
-    - 务工
-      - 
-    - 考公
-    - 专业评价（这部分可以携带自己的主观看法）
-
-
-
-
+```
+├── LICENSE
+├── image（存放你要引用的图片）
+│   └── mangosteen
+│       └── img.png
+├── major (对专业对看法，可包含较强的主观性）
+├── master （考研、保研的经历）
+├── public_servant （对应考公的经验）
+└── work （对于求职的经验）
+    └── your_nick_name （在你自己的目录下创建Markdown文件，上述所有目录都一样））
+```
+推荐使用 intellj或者vscode进行编辑。
+### 以PR的方式合入主仓库
+#### Fork本仓库
+![img.png](image/mangosteen/img.png)
+#### 创建一个新的 Pull Request
+![img.png](image/mangosteen/new_pr.png)
+#### 
