@@ -1,12 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb24e1a3-b5e8-4bf0-895b-bafd57fe1db4" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/SCAU-Article.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/master/0/029ec65b777062a06d05571edba2ba2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/master/0/1711959710014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/master/0/1711959888125.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/master/0/1711959914669.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/master/0/9dcbf456700d42f808d3457522561fc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/master/0/e36da759ed706710876dc2437dd22fe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/master/0/f4cc21d0a2c50f6eca1b1d86630841b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/master/0/image-20240401003458103.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/master/0/image-20240401003550265.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/master/0/image-20240401163429902.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/master/0/image-20240401163449121.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/master/0/image-20240401163501577.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/master/0/v2-bc622801ca083d7bcd4f0e746fe76998_720w.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/master/0/工科分数线.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/master/0/潘子.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/master/Rhine_datar5/第0章 介绍篇.md" beforeDir="false" afterPath="$PROJECT_DIR$/master/Rhine_datar5/第0章 介绍篇.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/master/Rhine_datar5/第1章 论考研各大平台老师和UP以及黑幕.md" beforeDir="false" afterPath="$PROJECT_DIR$/master/Rhine_datar5/第1章 论考研各大平台老师和UP以及黑幕.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2oqVdC7LPwRddItNIVNisgMPuiC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;D:/Anaconda3-2022.10/_conda.exe&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "last_opened_file_path": "D:/Anaconda3-2022.10/_conda.exe",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="bb24e1a3-b5e8-4bf0-895b-bafd57fe1db4" name="更改" comment="" />
+      <created>1731597179059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731597179059</updated>
+      <workItem from="1731597183278" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
 </project>
