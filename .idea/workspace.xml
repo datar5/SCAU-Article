@@ -1,30 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb24e1a3-b5e8-4bf0-895b-bafd57fe1db4" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/SCAU-Article.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/master/0/029ec65b777062a06d05571edba2ba2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/master/0/1711959710014.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/master/0/1711959888125.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/master/0/1711959914669.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/master/0/9dcbf456700d42f808d3457522561fc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/master/0/e36da759ed706710876dc2437dd22fe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/master/0/f4cc21d0a2c50f6eca1b1d86630841b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/master/0/image-20240401003458103.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/master/0/image-20240401003550265.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/master/0/image-20240401163429902.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/master/0/image-20240401163449121.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/master/0/image-20240401163501577.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/master/0/v2-bc622801ca083d7bcd4f0e746fe76998_720w.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/master/0/工科分数线.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/master/0/潘子.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Rhine_datar5/第0章 介绍篇.md" beforeDir="false" afterPath="$PROJECT_DIR$/master/Rhine_datar5/第0章 介绍篇.md" afterDir="false" />
+    <list default="true" id="bb24e1a3-b5e8-4bf0-895b-bafd57fe1db4" name="更改" comment="按照规范进行修改">
       <change beforePath="$PROJECT_DIR$/master/Rhine_datar5/第1章 论考研各大平台老师和UP以及黑幕.md" beforeDir="false" afterPath="$PROJECT_DIR$/master/Rhine_datar5/第1章 论考研各大平台老师和UP以及黑幕.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +31,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "true",
     "last_opened_file_path": "D:/Anaconda3-2022.10/_conda.exe",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -64,10 +48,30 @@
       <option name="presentableId" value="Default" />
       <updated>1731597179059</updated>
       <workItem from="1731597183278" duration="23000" />
+      <workItem from="1731597312259" duration="367000" />
     </task>
+    <task id="LOCAL-00001" summary="按照规范进行修改">
+      <created>1731597371572</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731597371572</updated>
+    </task>
+    <task id="LOCAL-00002" summary="按照规范进行修改">
+      <created>1731597385497</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731597385497</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="按照规范进行修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="按照规范进行修改" />
   </component>
 </project>
